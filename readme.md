@@ -21,7 +21,7 @@ This Rock-Paper-Scissors game is a simple project created with Streamlit. It's a
 
 ## Screenshots
 
-![Game Screenshot](images\OIG1.png)
+![Game Screenshot](https://github.com/Gorachand22/Rock-Paper-Scissors-Game/blob/main/images/OIG.png)
 
 ## How to Run
 
