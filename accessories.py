@@ -1,0 +1,1 @@
+image_list = ['images/rock.gif', 'images/paper.gif', 'images/scissors.gif', 'images/scissors.gif']
